@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework02</string>
+    <string name="btn_go"> Go </string>
+    <string name="prompt">Choose A Keyword</string>
+    <string name="loading_message">Loading Dictionary</string>
+    <string name="photo_loading_message">Loading Photo</string>
+</resources>
