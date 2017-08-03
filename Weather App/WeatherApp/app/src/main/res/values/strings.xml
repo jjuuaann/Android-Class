@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="english_temp_abreviation">°F</string>
+    <string name="english_temp">Fahrenheit</string>
+    <string name="speed">mph</string>
+    <string name="pressure">hPa</string>
+    <string name="api_key">6b427f1ec328fa30</string>
+    <string name="favoriteDeleted">City Deleted</string>
+    <string name="updated">Updated on:</string>
+    <string name="loading">Loading Data</string>
+    <string name="favAdded">Added to Favorites</string>
+    <string name="favUpdated">Favorite Updated</string>
+    <string name="addFavorite">Add to Favorites</string>
+    <string name="redirecting">Redirecting, wait.</string>
+    <string name="noData">No data received.</string>
+    <string name="current_location">Current Location: </string>
+    <string name="loading_hourly">Loading Hourly Data</string>
+    <string name="hourly_data">Hourly Data</string>
+</resources>

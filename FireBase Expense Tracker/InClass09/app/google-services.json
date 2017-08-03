@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "481979906855",
+    "firebase_url": "https://expenseapp-cda18.firebaseio.com",
+    "project_id": "expenseapp-cda18",
+    "storage_bucket": "expenseapp-cda18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481979906855:android:70cbcdb238044f92",
+        "android_client_info": {
+          "package_name": "com.example.juan.inclass08"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481979906855-6q4172eahmfe2qrt6l4kt8kuf2fck615.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBscBKBnxd-brhGn359oUoUe2ukMevG0-A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

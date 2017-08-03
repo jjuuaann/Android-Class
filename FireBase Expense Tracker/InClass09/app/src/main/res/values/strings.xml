@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FireBase Expense</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_current_expense"> Current Expenses: </string>
+    <string name="empty_expense">There is no expense to show. Please add your expenses from the menu.</string>
+    <string name="tv_add_title">Add An Expense</string>
+    <string name="tv_add_expense_name_title">Expense Name</string>
+    <string name="tv_add_category">Category</string>
+    <string name="tv_add_amount_title">Amount</string>
+    <string name="btn_add_expense">Add Expense</string>
+    <string name="btn_add_cancel">Cancel</string>
+    <string name="info_missing">All fields are required</string>
+    <string name="tv_show_title">Expense Detail</string>
+    <string name="tv_show_name_title">Name</string>
+    <string name="tv_show_catagory_title">Catagory</string>
+    <string name="tv_show_amount_title">Amount</string>
+    <string name="tv_show_date">Date</string>
+    <string name="btn_show_close">Close</string>
+    <string name="deleted">Expense Deleted</string>
+    <string name="whatyouwant">Here Dude</string>
+    <string name="btn_save">Save</string>
+    <string-array name="categories">
+        <item>Groceries</item>
+        <item>Invoice</item>
+        <item>Transportation</item>
+        <item>Shopping</item>
+        <item>Rent</item>
+        <item>Trips</item>
+        <item>Utilities</item>
+        <item>Other</item>
+    </string-array>
+</resources>
